@@ -4,17 +4,27 @@ This repository contains the architecture, configuration, and documentation of a
 
 ## Repository Layout
 my-security-lab/
+
 ├── README.md                           <-- Portfolio Overview (You are here!)
 
 ├── scenarios/
+
 │   ├── scenario-01-nmap-detection/
+
 │   │   ├── README.md                   <-- Documentation
+
 │   │   ├── assets/                     <-- Screenshots
+
 │   │   └── logs/                       <-- PCAPs, scan exports, event logs
+
 │   └── scenario-02-active-directory/
+
 │       └── README.md
+
 ├── configs/                            <-- Custom config files
+
 └── scripts/                            <-- Custom scripts
+
 
 ## Lab Architecture
 
