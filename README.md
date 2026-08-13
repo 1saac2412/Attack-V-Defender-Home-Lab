@@ -8,7 +8,7 @@ This repository contains the architecture, configuration, and documentation of a
 
 ├── scenarios/
 
-│   ├── scenario-01-nmap-detection/
+│   ├── scenario-01
 
 │   │   ├── README.md                   <-- Documentation
 
@@ -16,9 +16,7 @@ This repository contains the architecture, configuration, and documentation of a
 
 │   │   └── logs/                       <-- PCAPs, scan exports, event logs
 
-│   └── scenario-02-active-directory/
-
-│       └── README.md
+|
 
 ├── configs/                            <-- Custom config files
 
