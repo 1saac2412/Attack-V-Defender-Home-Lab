@@ -2,7 +2,7 @@
 
 This repository contains the architecture, configuration, and documentation of an attacker/defender lab built to support my studies(CompTIA Sec+, exetera. ). This lab allows me to apply theory into action.
 
-##Lab Architecture
+## Lab Architecture
 
 <!-- ADD NETWORK TOPOLOGY PICTURE-->
 
