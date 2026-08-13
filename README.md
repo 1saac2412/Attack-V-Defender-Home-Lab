@@ -3,6 +3,7 @@
 This repository contains the architecture, configuration, and documentation of an attacker/defender lab built to support my studies (CompTIA Sec+, etc). This lab allows me to apply theory into action.
 
 ## Repository Layout
+
 my-security-lab/
 
 ├── README.md                           <-- Portfolio Overview (You are here!)
@@ -31,8 +32,11 @@ my-security-lab/
 <!-- ADD NETWORK TOPOLOGY PICTURE-->
 
 **Hypervisor:** Virtual Box
+
 **Attack Machine:** Kali Linux
+
 **Defense Macine:** Windows Server 2022
+
 
 ## Completed Experiments
 
@@ -42,4 +46,5 @@ my-security-lab/
 
 ## Tools used: 
 **Offense:**
+
 **Defense:**
