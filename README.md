@@ -5,6 +5,7 @@ This repository contains the architecture, configuration, and documentation of a
 ## Repository Layout
 my-security-lab/
 ├── README.md                           <-- Portfolio Overview (You are here!)
+
 ├── scenarios/
 │   ├── scenario-01-nmap-detection/
 │   │   ├── README.md                   <-- Documentation
