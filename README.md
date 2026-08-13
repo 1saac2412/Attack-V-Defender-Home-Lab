@@ -3,18 +3,27 @@
 This repository contains the architecture, configuration, and documentation of an attacker/defender lab built to support my studies (CompTIA Sec+, etc). This lab allows me to apply theory into action.
 
 ## Repository Layout
+Attack V Defender Home Lab
 
 ├── README.md                           <-- Portfolio Overview (You are here!)
 
 ├── scenarios/
 
-│   ├── scenario-01
+│   ├── scenario-01/
 
-│   │   ├── README.md                   <-- Documentation
+│   │   ├── Offensive and Defensive Reports    <-- Documentation
 
-│   │   ├── assets/                     <-- Screenshots
+|   |   | Offenstive/
 
-│   │   └── logs/                       <-- PCAPs, scan exports, event logs
+│   │   |  ├── assets/                     <-- Screenshots
+
+│   │   |  └── logs/                       <-- PCAPs, scan exports, event logs
+
+|   |   | Defensive/
+
+│   │   |  ├── assets/                     <-- Screenshots
+
+│   │   |  └── logs/                       <-- PCAPs, scan exports, event logs
 
 |
 
