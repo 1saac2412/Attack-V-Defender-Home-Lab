@@ -10,7 +10,7 @@ This repository contains the architecture, configuration, and documentation of a
 **Attack Machine:** Kali Linux
 **Defense Macine:** Windows Server 2022
 
-## Completed Experiments**
+## Completed Experiments
 
 *Senario Name* | *Area* | *Logs* | *Write Up Link*
 
