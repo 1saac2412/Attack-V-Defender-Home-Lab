@@ -1,36 +1,18 @@
 # Cybersecurity Homelab Portfolio
 
-This repository contains the architecture, configuration, and documentation of an attacker/defender lab built to support my studies (CompTIA Sec+, etc). This lab allows me to apply theory into action.
+This repository contains the architecture, configuration, and documentation of an attacker/defender lab built to support my studies (CompTIA Sec+, etc.) This lab allows me to apply theory into action.
 
 ## Repository Layout
 Attack V Defender Home Lab
-
-├── README.md                           <-- Portfolio Overview (You are here!)
-
+├── README.md                   # Core project overview & quick summary
+├── docs/
+│   ├── network-topology.md    # Architecture diagrams & IP layout
+│   └── setup-guide.md          # How the lab was built (OS, tools, configurations)
 ├── scenarios/
-
-│   ├── scenario-01/
-
-│   │   ├── Offensive and Defensive Reports    <-- Documentation
-
-|   |   | Offenstive/
-
-│   │   |  ├── assets/                     <-- Screenshots
-
-│   │   |  └── logs/                       <-- PCAPs, scan exports, event logs
-
-|   |   | Defensive/
-
-│   │   |  ├── assets/                     <-- Screenshots
-
-│   │   |  └── logs/                       <-- PCAPs, scan exports, event logs
-
-|
-
-├── configs/                            <-- Custom config files
-
-└── scripts/                            <-- Custom scripts
-
+│   ├── 01-brute-force/        # Scenario 1: Red vs. Blue documentation
+│   └── 02-privilege-escalation/
+├── scripts/                    # Custom automation, setup, or attack scripts
+└── logs/                       # Sanitized log samples, PCAP summaries, or rules
 
 ## Lab Architecture
 
@@ -40,7 +22,7 @@ Attack V Defender Home Lab
 
 **Attack Machine:** Kali Linux
 
-**Defense Macine:** Windows Server 2022
+**Defense Machine:** Metasploitable Linux 2
 
 
 ## Completed Experiments
