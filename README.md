@@ -3,14 +3,16 @@
 This repository contains the architecture, configuration, and documentation of an attacker/defender lab built to support my studies (CompTIA Sec+, etc.) This lab allows me to apply theory into action.
 
 ## Repository Layout
+
 Attack V Defender Home Lab
-├── README.md                   # Core project overview & quick summary
+
+├── README.md                  # Core project overview & quick summary
 
 ├── docs/
 
-│   ├── network-topology.md    # Architecture diagrams & IP layout
+│   ├── network-topology.      # Architecture diagrams & IP layout
 
-│   └── setup-guide.md          # How the lab was built (OS, tools, configurations)
+│   └── setup-guide            # How the lab was built (OS, tools, configurations)
 
 ├── scenarios/
 
@@ -25,7 +27,6 @@ Attack V Defender Home Lab
 
 ## Lab Architecture
 
-<!-- ADD NETWORK TOPOLOGY PICTURE-->
 
 **Hypervisor:** Virtual Box
 
