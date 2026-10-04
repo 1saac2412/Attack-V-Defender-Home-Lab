@@ -5,14 +5,23 @@ This repository contains the architecture, configuration, and documentation of a
 ## Repository Layout
 Attack V Defender Home Lab
 ├── README.md                   # Core project overview & quick summary
+
 ├── docs/
+
 │   ├── network-topology.md    # Architecture diagrams & IP layout
+
 │   └── setup-guide.md          # How the lab was built (OS, tools, configurations)
+
 ├── scenarios/
+
 │   ├── 01-brute-force/        # Scenario 1: Red vs. Blue documentation
+
 │   └── 02-privilege-escalation/
+
 ├── scripts/                    # Custom automation, setup, or attack scripts
+
 └── logs/                       # Sanitized log samples, PCAP summaries, or rules
+
 
 ## Lab Architecture
 
